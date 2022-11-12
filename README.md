@@ -1,18 +1,18 @@
 # Agenda de leitura
 
-Livro: Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin
-🚨 - Próximo encontro
-✔️ - Encontro já realizado
+Livro: Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin   
+🚨 - Próximo encontro   
+✔️ - Encontro já realizado   
 
 ## 27 de outubro 
 - Inicio da Leitura 
 
-✔️ ## 10 de novembro quinta-feira (21:00h) ou 12 de novembro - sábado (10:00h)
+## ✔️ 10 de novembro quinta-feira (21:00h) ou 12 de novembro - sábado (10:00h)
 - Chapter 1: Clean Code
 - Chapter 2: Meaningful Names
 - Chapter 3: Functions
 
-🚨 ## 24 de novembro - quinta-feira  (21:00h) ou 26 de novembro - sábado (10:00h)
+## 🚨 24 de novembro - quinta-feira  (21:00h) ou 26 de novembro - sábado (10:00h)
 - Chapter 4: Comments
 - Chapter 5: Formatting
 - Chapter 6: Objects and Data Structures
