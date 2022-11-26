@@ -12,12 +12,12 @@ Livro: Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin
 - Chapter 2: Meaningful Names
 - Chapter 3: Functions
 
-## 🚨 24 de novembro - quinta-feira  (21:00h) ou 26 de novembro - sábado (10:00h)
+## ✔️ 24 de novembro - quinta-feira  (21:00h) ou 26 de novembro - sábado (10:00h)
 - Chapter 4: Comments
 - Chapter 5: Formatting
 - Chapter 6: Objects and Data Structures
 
-## 8 de dezembro - quinta-feira (21:00h) ou 10 de dezembro - sábado (10:00h)
+## 🚨 8 de dezembro - quinta-feira (21:00h) ou 10 de dezembro - sábado (10:00h)
 - Chapter 7: Error Handling
 - Chapter 8: Boundaries
 - Chapter 9: Unit Tests
