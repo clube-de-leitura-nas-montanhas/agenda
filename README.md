@@ -17,14 +17,14 @@ Livro: Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin
 - Chapter 5: Formatting
 - Chapter 6: Objects and Data Structures
 
-## 🚨 8 de dezembro - quinta-feira (21:00h) ou 10 de dezembro - sábado (10:00h)
+## ✔️ 8 de dezembro - quinta-feira (21:00h) ou 10 de dezembro - sábado (10:00h)
 - Chapter 7: Error Handling
 - Chapter 8: Boundaries
 - Chapter 9: Unit Tests
 
 ## 22 de dezembro - pausa para natal e final de ano
 
-## 5 de janeiro - quinta-feira  (21:00h) ou 7 de janeiro - sábado (10:00h)
+## 🚨 5 de janeiro - quinta-feira  (21:00h) ou 7 de janeiro - sábado (10:00h)
 - Chapter 10: Classes
 - Chapter 11: Systems
 - Chapter 12: Emergence
