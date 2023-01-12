@@ -24,12 +24,12 @@ Livro: Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin
 
 ## 22 de dezembro - pausa para natal e final de ano
 
-## 🚨 5 de janeiro - quinta-feira  (21:00h) ou 7 de janeiro - sábado (10:00h)
+## ✔️ 5 de janeiro - quinta-feira  (21:00h) ou 7 de janeiro - sábado (10:00h)
 - Chapter 10: Classes
 - Chapter 11: Systems
 - Chapter 12: Emergence
 
-## 19 de janeiro - quinta-feira (21:00h) ou 21 de janeiro - sábado (10:00h)
+## 🚨 19 de janeiro - quinta-feira (21:00h) ou 21 de janeiro - sábado (10:00h)
 - Chapter 13: Concurrency
 - Chapter 14: Successive Refinement
 - Chapter 15: JUnit Internals
