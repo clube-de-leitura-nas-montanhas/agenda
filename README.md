@@ -29,12 +29,12 @@ Livro: Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin
 - Chapter 11: Systems
 - Chapter 12: Emergence
 
-## 🚨 19 de janeiro - quinta-feira (21:00h) ou 21 de janeiro - sábado (10:00h)
+## ✔️ 19 de janeiro - quinta-feira (21:00h) ou 21 de janeiro - sábado (10:00h)
 - Chapter 13: Concurrency
 - Chapter 14: Successive Refinement
 - Chapter 15: JUnit Internals
 
-## 2 de fevereiro - quinta-feira (21:00h) ou 4 de fevereiro - sábado (10:00h)
+## 🚨 2 de fevereiro - quinta-feira (21:00h) ou 4 de fevereiro - sábado (10:00h)
 - Chapter 16: Refactoring SerialDate
 - Chapter 17: Smells and Heuristics
 
