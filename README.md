@@ -12,6 +12,8 @@ Duas turmas:
 Turma 1: às 19:00h
 Turma 2: às 23:00h
 
+Duração do encontros: 1 hora
+
 ## 18 de março
 - Inicio da Leitura
 
