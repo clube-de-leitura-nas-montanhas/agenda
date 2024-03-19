@@ -1,6 +1,7 @@
 # Agenda de leitura
 
 Livro: Dive Into Design Patterns - Alexander Shvets
+
 🚨 - Próximo encontro
 ✔️ - Encontro já realizado
 
