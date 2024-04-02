@@ -17,14 +17,14 @@ Duração do encontros: 1 hora
 ## 18 de março
 - Inicio da Leitura
 
-## 🚨 1 de abril
+## ✔️ 1 de abril
 - Introduction to OOP
 - Introduction to Design Patterns
 - Software Design Principes
     - Design Principles
     - SOLID Principles
 
-## 15 de abril
+## 🚨 15 de abril
 - Creational Design Patterns 
     - Factory Method
     - Abstract Factory
