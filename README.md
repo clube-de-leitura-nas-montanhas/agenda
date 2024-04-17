@@ -24,14 +24,14 @@ Duração do encontros: 1 hora
     - Design Principles
     - SOLID Principles
 
-## 🚨 15 de abril
+## ✔️ 15 de abril
 - Creational Design Patterns 
     - Factory Method
     - Abstract Factory
     - Builder
     - Prototype
 
-## 29 de abril
+## 🚨 29 de abril
 - Creational Design Patterns
     - Singleton
 - Structural Design Patterns
