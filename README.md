@@ -31,14 +31,14 @@ Duração do encontros: 1 hora
     - Builder
     - Prototype
 
-## 🚨 29 de abril
+## ✔️ 29 de abril
 - Creational Design Patterns
     - Singleton
 - Structural Design Patterns
     - Adapter
     - Bridge
 
-## 13 de maio
+## 🚨 13 de maio
 - Structural Design Patterns
     - Composite
     - Decorator
