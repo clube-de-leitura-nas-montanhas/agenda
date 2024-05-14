@@ -38,16 +38,17 @@ Duração do encontros: 1 hora
     - Adapter
     - Bridge
 
-## 🚨 13 de maio
+## ✔️ 13 de maio
 - Structural Design Patterns
     - Composite
     - Decorator
     - Facade
 
-## 27 de maio
-- Behavioral Design Patterns
+## 🚨 27 de maio
+- Structural Design Patterns
     - Flyweight
     - Proxy
+- Behavioral Design Patterns
     - Chain of Responsability
 
 ## 10 de junho
