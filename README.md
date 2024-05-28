@@ -44,14 +44,14 @@ Duração do encontros: 1 hora
     - Decorator
     - Facade
 
-## 🚨 27 de maio
+## ✔️ 27 de maio
 - Structural Design Patterns
     - Flyweight
     - Proxy
 - Behavioral Design Patterns
     - Chain of Responsability
 
-## 10 de junho
+## 🚨 10 de junho
 - Behavioral Design Patterns
     - Command
     - Iterator
