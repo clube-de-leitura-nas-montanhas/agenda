@@ -51,13 +51,13 @@ Duração do encontros: 1 hora
 - Behavioral Design Patterns
     - Chain of Responsability
 
-## 🚨 10 de junho
+## ✔️ 10 de junho
 - Behavioral Design Patterns
     - Command
     - Iterator
     - Mediator
 
-## 24 de junho
+## 🚨 24 de junho
 - Behavioral Design Patterns
     - Memento
     - Observer
