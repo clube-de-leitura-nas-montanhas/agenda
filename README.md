@@ -57,13 +57,13 @@ Duração do encontros: 1 hora
     - Iterator
     - Mediator
 
-## 🚨 24 de junho
+## ✔️ 24 de junho
 - Behavioral Design Patterns
     - Memento
     - Observer
     - State
 
-## 8 de julho
+## 🚨 8 de julho
 - Behavioral Design Patterns
     - Strategy
     - Template Method
