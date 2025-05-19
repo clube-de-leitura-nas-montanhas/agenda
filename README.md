@@ -1,73 +1,56 @@
 # Agenda de leitura
 
-Livro: Dive Into Design Patterns - Alexander Shvets
+O livro *The Pragmatic Programmer* (edição de 20 anos) tem **9 capítulos principais** (sem contar apêndices).
 
-🚨 - Próximo encontro
-✔️ - Encontro já realizado
+Começando em **4 de junho**, com encontros a cada **quarta-feira quinzenal**, e cobrindo **1 capítulo por encontro**.
 
-400 páginas / 113 dias ≈ 3.54 páginas por dia.
+---
 
-Dia da semana: segunda-feira
-Duas turmas:
-Turma 1: às 19:00h
-Turma 2: às 23:00h
+📘 Livro: *The Pragmatic Programmer – Andrew Hunt & David Thomas*
 
-Duração do encontros: 1 hora
+🗓️ Início da leitura: **4 de junho**
+📖 Leitura: 1 capítulo por encontro
+🕐 Duração dos encontros: 1 hora
+📍 Frequência: Quartas-feiras, a cada 15 dias
+👥 Turmas:
 
-## 18 de março
-- Inicio da Leitura
+* Turma 1: às 19h
+* Turma 2: às 23h
 
-## ✔️ 1 de abril
-- Introduction to OOP
-- Introduction to Design Patterns
-- Software Design Principes
-    - Design Principles
-    - SOLID Principles
+---
 
-## ✔️ 15 de abril
-- Creational Design Patterns 
-    - Factory Method
-    - Abstract Factory
-    - Builder
-    - Prototype
+## 4 de junho
 
-## ✔️ 29 de abril
-- Creational Design Patterns
-    - Singleton
-- Structural Design Patterns
-    - Adapter
-    - Bridge
+* Capítulo 1: A Pragmatic Philosophy
 
-## ✔️ 13 de maio
-- Structural Design Patterns
-    - Composite
-    - Decorator
-    - Facade
+## 19 de junho
 
-## ✔️ 27 de maio
-- Structural Design Patterns
-    - Flyweight
-    - Proxy
-- Behavioral Design Patterns
-    - Chain of Responsability
+* Capítulo 2: A Pragmatic Approach
 
-## ✔️ 10 de junho
-- Behavioral Design Patterns
-    - Command
-    - Iterator
-    - Mediator
+## 3 de julho
 
-## ✔️ 24 de junho
-- Behavioral Design Patterns
-    - Memento
-    - Observer
-    - State
+* Capítulo 3: The Basic Tools
 
-## 🚨 8 de julho
-- Behavioral Design Patterns
-    - Strategy
-    - Template Method
-    - Visitor
+## 17 de julho
 
-## 22 julho
-- Conclusion
+* Capítulo 4: Pragmatic Paranoia
+
+## 31 de julho
+
+* Capítulo 5: Bend or Break
+
+## 14 de agosto
+
+* Capítulo 6: Concurrency
+
+## 28 de agosto
+
+* Capítulo 7: While You Are Coding
+
+## 11 de setembro
+
+* Capítulo 8: Before the Project
+
+## 25 de setembro
+
+* Capítulo 9: Pragmatic Projects
