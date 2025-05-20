@@ -8,7 +8,7 @@ Começando em **4 de junho**, com encontros a cada **quarta-feira - 20h quinzena
 
 📘 Livro: *The Pragmatic Programmer – Andrew Hunt & David Thomas*
 
-🗓️ Início da leitura: **4 de junho**
+🗓️ Primeiro encontro: **4 de junho**
 📖 Leitura: 1 capítulo por encontro
 🕐 Duração dos encontros: 1 hora
 📍 Frequência: Quartas-feiras, às 20h, quinzenalmente.
