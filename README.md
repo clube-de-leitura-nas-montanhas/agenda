@@ -2,7 +2,7 @@
 
 O livro *The Pragmatic Programmer* (edição de 20 anos) tem **9 capítulos principais** (sem contar apêndices).
 
-Começando em **4 de junho**, com encontros a cada **quarta-feira quinzenal**, e cobrindo **1 capítulo por encontro**.
+Começando em **4 de junho**, com encontros a cada **quarta-feira - 20h quinzenal**, e cobrindo **1 capítulo por encontro**.
 
 ---
 
@@ -11,11 +11,7 @@ Começando em **4 de junho**, com encontros a cada **quarta-feira quinzenal**, e
 🗓️ Início da leitura: **4 de junho**
 📖 Leitura: 1 capítulo por encontro
 🕐 Duração dos encontros: 1 hora
-📍 Frequência: Quartas-feiras, a cada 15 dias
-👥 Turmas:
-
-* Turma 1: às 19h
-* Turma 2: às 23h
+📍 Frequência: Quartas-feiras, às 20h, quinzenalmente.
 
 ---
 
