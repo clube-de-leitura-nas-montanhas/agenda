@@ -1,56 +1,23 @@
 # Agenda de leitura
 
-O livro *The Pragmatic Programmer* tem **9 capítulos principais** (sem contar apêndices).
+Visão geral dos livros já lidos pelo grupo.
 
-Começando em **4 de junho**, com encontros a cada **quarta-feira quinzenal**, e cobrindo **1 capítulo por encontro**.
+## Regras gerais
 
----
+* Cada livro possui uma agenda própria, com as datas, turmas e horários definidos para aquela leitura.
+* Os encontros acontecem a cada 15 dias e têm duração de 1 hora.
+* O primeiro encontro é reservado à introdução do livro e ao alinhamento da dinâmica de leitura.
+* A agenda informa o conteúdo previsto para cada encontro; alterações são combinadas pelo grupo.
+* 🚨 indica o próximo encontro e ✔️ indica um encontro já realizado.
 
-📘 Livro: *The Pragmatic Programmer – Andrew Hunt & David Thomas*
+## 2022–2023
 
-🗓️ Início da leitura: **4 de junho**
-📖 Leitura: 1 capítulo por encontro
-🕐 Duração dos encontros: 1 hora
-📍 Frequência: Quartas-feiras, 20h, a cada 15 dias
-👥 Turmas:
+* [Clean Code: A Handbook of Agile Software Craftsmanship — Robert C. Martin](CleanCode.md)
 
-* Turma 1: às 19h
-* Turma 2: às 23h
+## 2024
 
----
+* [Dive Into Design Patterns — Alexander Shvets](DiveIntoDesignPatterns.md)
 
-## 4 de junho
+## 2025
 
-* Capítulo 1: A Pragmatic Philosophy
-
-## 18 de junho
-
-* Capítulo 2: A Pragmatic Approach
-
-## 2 de julho
-
-* Capítulo 3: The Basic Tools
-
-## 16 de julho
-
-* Capítulo 4: Pragmatic Paranoia
-
-## 30 de julho
-
-* Capítulo 5: Bend or Break
-
-## 13 de agosto
-
-* Capítulo 6: Concurrency
-
-## 27 de agosto
-
-* Capítulo 7: While You Are Coding
-
-## 10 de setembro
-
-* Capítulo 8: Before the Project
-
-## 24 de setembro
-
-* Capítulo 9: Pragmatic Projects
+* [The Pragmatic Programmer — Andrew Hunt & David Thomas](ThePragmaticProgrammer.md)
